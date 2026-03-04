@@ -7,3 +7,13 @@
 - frontend-settings
 - graph
 - group-builder
+- hierarchy
+- inventory
+- inventory-comments
+- object-state
+- firebase-messenger
+- frontend-settings
+- power-bi
+- search
+- security-middleware
+- zeebe-client
