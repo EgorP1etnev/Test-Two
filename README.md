@@ -1,6 +1,11 @@
 # Test-Two
 - ai
 - dataflow
+AIRFLOW_HOST: <airflow_webserver_host>
+AIRFLOW_PASS: <airflow_password>
+AIRFLOW_PORT: <airflow_webserver_port>
+AIRFLOW_PROTOCOL: <airflow_webserver_protocol>
+AIRFLOW_USER: <airflow_user>
 - dataview-manager
 - documents
 - firebase-messenger
